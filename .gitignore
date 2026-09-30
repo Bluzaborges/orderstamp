@@ -1,0 +1,19 @@
+# Build output
+**/bin/
+**/obj/
+/artifacts/
+/publish/
+
+# Visual Studio
+/.vs/
+*.suo
+*.user
+*.userosscache
+
+# JetBrains IDEs
+/.idea/
+*.sln.iml
+
+# Operating-system files
+.DS_Store
+Thumbs.db

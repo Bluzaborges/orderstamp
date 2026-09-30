@@ -6,7 +6,7 @@ Histories are entered through an interactive command shell. The simulator can sh
 
 ## Install and run on Windows
 
-1. Download the ZIP from the latest release and extract all its files into one folder.
+1. Download the ZIP from the [latest release](https://github.com/Bluzaborges/orderstamp/releases) and extract all its files into one folder.
 2. Open the extracted folder and run `Orderstamp.exe`.
 
 ## Build
